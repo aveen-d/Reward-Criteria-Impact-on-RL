@@ -4,6 +4,7 @@ In this article, we study the reward criteria impact on the performance of reinf
 
 # Task and Environment
 Point goal navigation Task in gazebo simulation.
+![alt text](https://github.com/aveen-d/Reward-Criteria-Impact-on-RL/blob/main/env4.png)
 
 # Steps to run before performing experiment
 1. Setup the turtlebot3, ROS 2 (Dashing) according to the manual. https://emanual.robotis.com/docs/en/platform/turtlebot3/quick-start/#pc-setup .
