@@ -4,6 +4,7 @@ In this article, we study the reward criteria impact on the performance of reinf
 
 # Task and Environment
 Point goal navigation Task in gazebo simulation.
+
 ![alt text](https://github.com/aveen-d/Reward-Criteria-Impact-on-RL/blob/main/env4.png)
 
 # Steps to run before performing experiment
@@ -16,4 +17,7 @@ After replacing the files, follow steps mentioned in  section 9.3.2  in the manu
 
 # Results
 Based on the experiments, the skewed negative class and balanced class are able to learn 74.6\% and 72.6\% respectively and a steady increase in average cumulative rewards has been observed. On the other hand, the skewed positive class did not show any steady improvement in the average cumulative rewards earned even after training for over a large number of episodes.
+
+
+![alt text](https://github.com/aveen-d/Reward-Criteria-Impact-on-RL/blob/main/rl_9.png)
 
